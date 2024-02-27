@@ -1,0 +1,522 @@
+[
+  {
+    "frequency_span": {
+      "description": "CW, QRSS, narrow band digital modes",
+      "from_khz": 135700,
+      "to_khz": 137800,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW",
+      "from_khz": 472000,
+      "to_khz": 475000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 475000,
+      "to_khz": 479000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW",
+      "from_khz": 1810000,
+      "to_khz": 1838000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 1838000,
+      "to_khz": 1840000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 1840000,
+      "to_khz": 1843000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 1843000,
+      "to_khz": 2000000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW",
+      "from_khz": 3500000,
+      "to_khz": 3510000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW contest preferred",
+      "from_khz": 3510000,
+      "to_khz": 3560000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW",
+      "from_khz": 3560000,
+      "to_khz": 3570000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 3570000,
+      "to_khz": 3580000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 3580000,
+      "to_khz": 3590000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 3590000,
+      "to_khz": 3600000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 3600000,
+      "to_khz": 3620000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB contest preferred",
+      "from_khz": 3600000,
+      "to_khz": 3650000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 3650000,
+      "to_khz": 3700000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes, SSB contest preferred",
+      "from_khz": 3700000,
+      "to_khz": 3775000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes, SSB contest preferred",
+      "from_khz": 3775000,
+      "to_khz": 3800000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, Narrow band modes",
+      "from_khz": 5351500,
+      "to_khz": 5354000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes, USB recommended for voice operation",
+      "from_khz": 5354000,
+      "to_khz": 5366000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Weak signal narrow band modes",
+      "from_khz": 5366000,
+      "to_khz": 5366500,
+      "max_bandwidth_hz": 20
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRP Centre of Activity",
+      "from_khz": 7000000,
+      "to_khz": 7040000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 7040000,
+      "to_khz": 7047000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 7047000,
+      "to_khz": 7050000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 7050000,
+      "to_khz": 7053000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 7053000,
+      "to_khz": 7060000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB contest preferred",
+      "from_khz": 7060000,
+      "to_khz": 7100000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRP Centre of Activity",
+      "from_khz": 10100000,
+      "to_khz": 10130000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 10130000,
+      "to_khz": 10150000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW contest preferred, QRS Centre of Activity",
+      "from_khz": 14000000,
+      "to_khz": 14060000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRP Centre of Activity",
+      "from_khz": 14060000,
+      "to_khz": 14070000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 14070000,
+      "to_khz": 14089000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 14089000,
+      "to_khz": 14099000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Beacons exclusively",
+      "from_khz": 14099000,
+      "to_khz": 14101000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 14101000,
+      "to_khz": 14112000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 14112000,
+      "to_khz": 14125000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes, SSB contest preferred",
+      "from_khz": 14125000,
+      "to_khz": 14300000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRP Centre of Activity",
+      "from_khz": 18068000,
+      "to_khz": 18095000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 18095000,
+      "to_khz": 18105000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 18105000,
+      "to_khz": 18109000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Beacons exclusively",
+      "from_khz": 18109000,
+      "to_khz": 18111000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 18111000,
+      "to_khz": 18120000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 18120000,
+      "to_khz": 18168000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRS Centre of Activity",
+      "from_khz": 21000000,
+      "to_khz": 21070000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 21070000,
+      "to_khz": 21090000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 21090000,
+      "to_khz": 21110000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 21110000,
+      "to_khz": 21120000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 21120000,
+      "to_khz": 21149000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Beacons exclusively",
+      "from_khz": 21149000,
+      "to_khz": 21151000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 21151000,
+      "to_khz": 21450000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRP Centre of Activity",
+      "from_khz": 24890000,
+      "to_khz": 24915000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 24915000,
+      "to_khz": 24925000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 24925000,
+      "to_khz": 24929000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Beacons exclusively",
+      "from_khz": 24929000,
+      "to_khz": 24931000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 24931000,
+      "to_khz": 24940000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 24940000,
+      "to_khz": 24990000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW, QRS Centre of Activity",
+      "from_khz": 28000000,
+      "to_khz": 28070000,
+      "max_bandwidth_hz": 200
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 28070000,
+      "to_khz": 28120000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 28120000,
+      "to_khz": 28150000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "Narrow band modes",
+      "from_khz": 28150000,
+      "to_khz": 28190000,
+      "max_bandwidth_hz": 500
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Regional time shared beacons, exclusively",
+      "from_khz": 28190000,
+      "to_khz": 28199000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Worldwide time shared beacons, exclusively",
+      "from_khz": 28199000,
+      "to_khz": 28201000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "International Beacon Project Continuous duty beacons, exclusively",
+      "from_khz": 28201000,
+      "to_khz": 28225000
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes, Beacons",
+      "from_khz": 28225000,
+      "to_khz": 28300000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 28300000,
+      "to_khz": 28320000,
+      "max_bandwidth_hz": 2700
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "All modes",
+      "from_khz": 28320000,
+      "to_khz": 29000000,
+      "max_bandwidth_hz": 2700
+    }
+  }
+]
