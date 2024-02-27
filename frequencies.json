@@ -1,0 +1,150 @@
+[
+ {
+  "information": {
+    "license": "LGPL v3 GNU LESSER GENERAL PUBLIC LICENSE",
+    "source": "https://github.com/j0uni/HAM/frequencies.json",
+    "information": "Please contribute incorrect or missing information at github, 73!",
+    "updated": "2024-02-27"    
+  }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 40m",
+      "from_khz": 7000,
+      "to_khz": 7040,
+      "ham_band_name": "40m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 10m",
+      "from_khz": 28000,
+      "to_khz": 28300,
+      "ham_band_name": "10m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 20m",
+      "from_khz": 14000,
+      "to_khz": 14070,
+      "ham_band_name": "20m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 80m",
+      "from_khz": 3500,
+      "to_khz": 3570,
+      "ham_band_name": "80m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 15m",
+      "from_khz": 21000,
+      "to_khz": 21070,
+      "ham_band_name": "15m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 17m",
+      "from_khz": 18068,
+      "to_khz": 18168,
+      "ham_band_name": "17m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 30m",
+      "from_khz": 10100,
+      "to_khz": 10150,
+      "ham_band_name": "30m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB 40m",
+      "from_khz": 7050,
+      "to_khz": 7200,
+      "ham_band_name": "40m",
+      "bandwidth:":"0",
+      "mode": "SSB"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB 10m",
+      "from_khz": 28300,
+      "to_khz": 28500,
+      "ham_band_name": "10m",
+      "bandwidth:":"0",
+      "mode": "SSB"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB 20m",
+      "from_khz": 14070,
+      "to_khz": 14350,
+      "ham_band_name": "20m",
+      "bandwidth:":"0",
+      "mode": "SSB"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB 80m",
+      "from_khz": 3600,
+      "to_khz": 3800,
+      "ham_band_name": "80m",
+      "bandwidth:":"0",
+      "mode": "SSB"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB 15m",
+      "from_khz": 21200,
+      "to_khz": 21450,
+      "ham_band_name": "15m",
+      "bandwidth:":"0",
+      "mode": "SSB"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "SSB 30m",
+      "from_khz": 10150,
+      "to_khz": 10175,
+      "ham_band_name": "30m",
+      "bandwidth:":"0",
+      "mode": "SSB"
+    }
+  },
+  {
+    "frequency_span": {
+      "description": "CW 12m",
+      "from_khz": 24890,
+      "to_khz": 24915,
+      "ham_band_name": "12m",
+      "bandwidth:":"0",
+      "mode": "CW"
+    }
+  }
+]
